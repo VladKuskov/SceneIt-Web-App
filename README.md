@@ -1,6 +1,6 @@
 # Movie Catalog API
 
-A RESTful backend app built with Spring Boot to manage a movie catalog. This project helped me learn core backend concepts like CRUD, REST APIs, data persistence, and dependency management. Built with Spring Boot, Spring Data JPA, PostgreSQL and Maven. The frontend was generated using AI assisted tools, then customized and connected to the backend manually.
+A RESTful backend app built with Spring Boot to manage a movie catalog with modern movies, data gathered from IMDb. This project helped me learn core backend concepts like CRUD, REST APIs, data persistence, and dependency management. Built with Spring Boot, Spring Data JPA, PostgreSQL and Maven. The frontend was generated using AI assisted tools, then customized and connected to the backend manually.
 
 - RESTful API with routing and validation
 - Tested MVC architecture with service/repo layers
